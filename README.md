@@ -64,4 +64,4 @@ $ cat < input.txt > output.txt
 $ echo $?
 0
 ```
-⚠️  This project is designed for Linux environments. It may not function correctly on macOS or Windows due to differences in GNU readline behavior and terminal signal handling.
+This project is designed for Linux environments. It may not function correctly on macOS or Windows due to differences in GNU readline behavior and terminal signal handling.
