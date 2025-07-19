@@ -1,9 +1,9 @@
 # Minishell
 
-Minishell is a simplified Unix shell written in C as part of the École 42 core curriculum. It aims to replicate key functionalities of a real shell like `bash`, including command parsing, built-ins, pipes, redirections, and process management — all implemented using low-level system calls.
+Minishell is a simplified Unix shell written in C as part of the École 42 core curriculum. It aims to replicate key functionalities of a real shell like `bash`, including command parsing, built-ins, pipes, redirections, and process management — implemented using low-level system calls.
 
 
-## 🚀 Features
+## Features
 
 - Execution of external commands using `PATH`
 - Built-in commands:
@@ -32,7 +32,7 @@ Minishell is a simplified Unix shell written in C as part of the École 42 core 
 - And more…
 
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/yourusername/minishell.git
@@ -40,7 +40,7 @@ cd minishell
 make
 ```
 
-## 🧪 Usage - examples
+## Usage - examples
 
 After building the project with `make`, run the shell with:
 
